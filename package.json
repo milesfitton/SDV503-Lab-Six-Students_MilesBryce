@@ -1,0 +1,20 @@
+{
+  "name": "SDV503-Lab-Six-Students_MilesBryce",
+  "version": "1.0.0",
+  "description": "Pair coding exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milesfitton/SDV503-Lab-Six-Students_MilesBryce.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/milesfitton/SDV503-Lab-Six-Students_MilesBryce/issues"
+  },
+  "homepage": "https://github.com/milesfitton/SDV503-Lab-Six-Students_MilesBryce#readme"
+}
