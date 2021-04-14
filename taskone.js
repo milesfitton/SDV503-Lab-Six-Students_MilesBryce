@@ -1,5 +1,7 @@
 //Todo
-//Task_1:  Create a function that returns the total of all odd numbers up to and including the given arugrment. 
+//Task -1:  
+//Create a function that returns the total of all odd numbers up to and including 
+//the given arugrment. 
 /*The argument will be given as an odd number when you invoke the function. 
 Ex:  addOddNumbers(5)  -> 9  // 1 + 3 + 5 = 9
 Ex: addOddnumbers(13) -> 49 // 1 + 3 + 5 + 7 + 9 + 11 + 13 = 49*/
@@ -10,18 +12,19 @@ Ex: addOddnumbers(13) -> 49 // 1 + 3 + 5 + 7 + 9 + 11 + 13 = 49*/
 //formula = square the above number 
 //the formula to determine the sum between 1 and n is 1/2(n + 1))2
 
-
 function addOddNumbers(n)  {
-    return arr=(n+1)/2
-Math.pow (arr,2)
+   let arr=(n+1)/2
+return Math.pow (arr,2)
 }
-console.log(addOddNumbers([5]))
+console.log(addOddNumbers([5]))//Bryce - This code does not work - is the formula wrong??, Any thoughts?
 
-// arr =[2,6] - find out if odd or even number
- /*function oddOrEven (x) {
-let sum = 0;
-x.forEach (num => sum += num)
-return sum%2 === 0 ? 'even': 'odd'
-};
-console.log(oddOrEven ([1,2,3,4,5]))*/
+
+
+//Todo
+//Task 3
+//Given an object containing counts of both likes and dislikes of a facebook post,
+//return a number of count for either likes or dislikes should be displayed. 
+//This is calculated by subtracting the number of dislikes from likes.
+
+
 
