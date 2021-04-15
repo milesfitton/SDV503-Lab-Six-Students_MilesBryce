@@ -20,11 +20,6 @@ console.log(addOddNumbers([5]))//Bryce - This code does not work - is the formul
 
 
 
-//Todo
-//Task 3
-//Given an object containing counts of both likes and dislikes of a facebook post,
-//return a number of count for either likes or dislikes should be displayed. 
-//This is calculated by subtracting the number of dislikes from likes.
 
 
 
